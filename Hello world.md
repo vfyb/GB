@@ -1,7 +1,7 @@
-# Hello
+# **Hello**
 
 ## Text
-### Zag
+### **Zag**
 
 *Italic.*
 
