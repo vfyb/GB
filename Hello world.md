@@ -5,6 +5,8 @@
 
 *Italic.*
 
+    git init
+
 **Bold.**
 
 * Spisok 1
